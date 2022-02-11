@@ -1,3 +1,3 @@
-# dio-desafio-github
-Primeiro repositorio - desafio de projeto git| github
-Repositorio criado para desafio de projeto.
+# DSS
+Repositorio desafiod e projeto.
+Pesq. e ord. de dados
